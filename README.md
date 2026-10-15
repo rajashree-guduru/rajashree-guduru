@@ -2,7 +2,7 @@
 
 **Data Scientist** at Symplore Inc. | M.S. Business Analytics, Sacred Heart University
 
-I build machine-learning models and Generative AI tools, and I care about getting the data right first. Before my master's, I spent five years at Infosys on data validation and statistical analysis for clients in banking, insurance, healthcare and e-commerce.
+I work on statistical modeling, data validation and Generative AI. My strength is gathering data from multiple sources, checking its quality, and turning loosely defined questions into metrics and models. Before my master's, I spent five years at Infosys on data validation and statistical analysis for banking, insurance, healthcare and e-commerce clients. At Symplore, I'm building a candidate–job fit model and prototyping a RAG assistant for analysts.
 
 ### 🔭 Featured work: [data-science-portfolio](https://github.com/rajashree-guduru/data-science-portfolio)
 
